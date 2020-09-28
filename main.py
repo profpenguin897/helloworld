@@ -1,2 +1,2 @@
 import sqlalchemy
-print("WOKE")
+print("WOKE", sqlalchemy.__version__)
